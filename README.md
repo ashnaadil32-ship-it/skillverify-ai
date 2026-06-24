@@ -33,8 +33,7 @@ The landing page introduces SkillVerify's core value proposition: helping profes
 
 The Verified Candidate Profile demonstrates how recruiters can quickly evaluate a candidate's proven skills and qualifications. The screen highlights the candidate's Composite Skill Score, verified skill badges, and assessment performance across multiple competency areas.
 
-![Verified Candidate Profile](<img width="567" height="791" alt="candidate-profile png" src="https://github.com/user-attachments/assets/bfaed4b7-cb36-4cd0-9fd7-e472c9cc380f" />
-)
+![Verified Candidate Profile](candidate-profile.png)
 
 ---
 
@@ -42,8 +41,7 @@ The Verified Candidate Profile demonstrates how recruiters can quickly evaluate 
 
 This section illustrates the end-to-end verification journey, from skill selection and adaptive assessments to AI-powered evaluation and badge generation.
 
-![How SkillVerify Works](<img width="532" height="782" alt="how-it-works" src="https://github.com/user-attachments/assets/c5b0af5c-d0f0-43be-a140-083a1bcc546b" />
-)
+![How SkillVerify Works](how-it-works.png)
 
 ---
 
@@ -51,8 +49,7 @@ This section illustrates the end-to-end verification journey, from skill selecti
 
 This screen showcases earned skill badges along with platform metrics that reinforce trust and credibility in the verification process.
 
-![Verified Skill Badges](<img width="532" height="660" alt="badges-stats" src="https://github.com/user-attachments/assets/a6226365-8d8f-4b66-8459-03371d1f1262" />
-)
+![Verified Skill Badges](badges-stats.png)
 
 ---
 
@@ -60,12 +57,12 @@ This screen showcases earned skill badges along with platform metrics that reinf
 
 The final section encourages users to begin the verification process and earn trusted credentials that can be showcased across professional platforms.
 
-![CTA Section](<img width="567" height="797" alt="cta-section png" src="https://github.com/user-attachments/assets/4aeb5c9e-e88f-4761-a3ec-3672907e5eeb" />
-)
+![CTA Section](cta-section.png)
 
 ## Live Demo
 
-Coming Soon
+
+[View Live Prototype](https://lovable.dev/projects/ed053f01-ab12-47d0-bca3-7c5823a10b8c)
 
 ## Author
 
