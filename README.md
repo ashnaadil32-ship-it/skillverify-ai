@@ -62,8 +62,7 @@ The final section encourages users to begin the verification process and earn tr
 ## Live Demo
 
 
-[View Live Prototype](https://lovable.dev/projects/ed053f01-ab12-47d0-bca3-7c5823a10b8c)
-
+[View Live Prototype](https://lovable.dev/projects/ed053f01-ab12-47d0-bca3-7c5823a10b8c).
 ## Author
 
 Ashna Adil
