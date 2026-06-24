@@ -26,9 +26,7 @@ SkillVerify combines adaptive assessments, practical tasks, and AI-powered scori
 
 The landing page introduces SkillVerify's core value proposition: helping professionals transform self-reported skills into trusted, verified credentials. Users are presented with a clear call-to-action to begin the verification process, along with an overview of the platform's key benefits.
 
-![Landing Page](<img width="586" height="802" alt="landing-page png" src="https://github.com/user-attachments/assets/0a2894b9-20e1-4f4a-a2cc-01577e4ad123" />
-)
-
+![Landing Page](landing-page.png)
 ---
 
 ### 👤 Verified Candidate Profile
