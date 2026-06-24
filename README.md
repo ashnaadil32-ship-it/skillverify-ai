@@ -1,2 +1,24 @@
-# skillverify-ai
-AI-powered skill verification platform that uses adaptive assessments and real-world tasks to generate trusted skill scores and verified badges for professionals.
+# SkillVerify – AI-Powered Skill Verification Platform
+
+## Overview
+
+SkillVerify helps professionals verify their skills through adaptive assessments and real-world tasks.
+
+## Features
+
+- Adaptive Assessments
+- AI Skill Scoring
+- Verified Skill Badges
+- Recruiter Dashboard
+
+## Screenshots
+
+![Home Screen](screenshots/home.png)
+
+## Live Demo
+
+Coming Soon
+
+## Author
+
+Ashna Adil
